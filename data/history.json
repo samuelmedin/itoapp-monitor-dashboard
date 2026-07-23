@@ -1,0 +1,541 @@
+{
+  "history": [
+    {
+      "date": "2026-07-13T23:56:07.235Z",
+      "day": "2026-07-13",
+      "passed": 3,
+      "total": 3,
+      "failed": 0,
+      "durationMs": 14984,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad)",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas)",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14T14:46:38.502Z",
+      "day": "2026-07-14",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 18828,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15T23:59:02.005Z",
+      "day": "2026-07-15",
+      "passed": 6,
+      "total": 6,
+      "failed": 0,
+      "durationMs": 23117,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16T20:48:59.663Z",
+      "day": "2026-07-16",
+      "passed": 6,
+      "total": 6,
+      "failed": 0,
+      "durationMs": 33773,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17T22:27:42.985Z",
+      "day": "2026-07-17",
+      "passed": 6,
+      "total": 6,
+      "failed": 0,
+      "durationMs": 35053,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18T13:01:46.463Z",
+      "day": "2026-07-18",
+      "passed": 6,
+      "total": 6,
+      "failed": 0,
+      "durationMs": 38599,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19T13:01:37.670Z",
+      "day": "2026-07-19",
+      "passed": 6,
+      "total": 6,
+      "failed": 0,
+      "durationMs": 38374,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20T13:01:48.387Z",
+      "day": "2026-07-20",
+      "passed": 6,
+      "total": 6,
+      "failed": 0,
+      "durationMs": 39213,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21T13:01:34.160Z",
+      "day": "2026-07-21",
+      "passed": 6,
+      "total": 6,
+      "failed": 0,
+      "durationMs": 33485,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22T13:02:10.892Z",
+      "day": "2026-07-22",
+      "passed": 5,
+      "total": 6,
+      "failed": 1,
+      "durationMs": 46285,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (crear + cerrar, solo lectura para el resto del sistema) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": false,
+          "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for getByRole('menuitem', { name: 'Eliminar' })\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Stand Alone Camilo Henríquez",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Vencida(10), pendientes(4), abiertos(1), Por aprobar(1)"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23T17:43:56.188Z",
+      "day": "2026-07-23",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 59755,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Por vencer(2), Vencida(4), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    }
+  ]
+}
