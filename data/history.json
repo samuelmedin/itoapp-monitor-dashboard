@@ -1,0 +1,4054 @@
+{
+  "history": [
+    {
+      "date": "2026-08-17T13:02:27.541Z",
+      "day": "2026-08-17",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 55318,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18T13:02:35.025Z",
+      "day": "2026-08-18",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 56309,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19T13:05:14.410Z",
+      "day": "2026-08-19",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57762,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20T13:02:31.580Z",
+      "day": "2026-08-20",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 51574,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21T13:02:51.672Z",
+      "day": "2026-08-21",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 59157,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22T13:01:49.263Z",
+      "day": "2026-08-22",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 59269,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23T13:02:13.570Z",
+      "day": "2026-08-23",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 56693,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24T13:02:17.172Z",
+      "day": "2026-08-24",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 54730,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25T13:02:14.499Z",
+      "day": "2026-08-25",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53747,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26T13:02:50.000Z",
+      "day": "2026-08-26",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 55198,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27T13:25:19.579Z",
+      "day": "2026-08-27",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 56854,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28T13:25:39.291Z",
+      "day": "2026-08-28",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57282,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29T13:01:43.181Z",
+      "day": "2026-08-29",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 58416,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30T13:01:50.950Z",
+      "day": "2026-08-30",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57540,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31T13:02:10.065Z",
+      "day": "2026-08-31",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57073,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01T13:02:11.754Z",
+      "day": "2026-09-01",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53386,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02T13:02:27.823Z",
+      "day": "2026-09-02",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53109,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03T13:02:42.641Z",
+      "day": "2026-09-03",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57317,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04T13:02:53.848Z",
+      "day": "2026-09-04",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 55131,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05T13:01:36.740Z",
+      "day": "2026-09-05",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53815,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06T12:03:51.023Z",
+      "day": "2026-09-06",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53840,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07T12:27:06.726Z",
+      "day": "2026-09-07",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57289,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08T12:27:16.659Z",
+      "day": "2026-09-08",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 56225,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09T12:27:30.044Z",
+      "day": "2026-09-09",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57507,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10T12:27:45.895Z",
+      "day": "2026-09-10",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 58839,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11T12:08:04.210Z",
+      "day": "2026-09-11",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 58890,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12T12:01:55.870Z",
+      "day": "2026-09-12",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 55660,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13T12:02:11.275Z",
+      "day": "2026-09-13",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 55620,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14T12:02:27.623Z",
+      "day": "2026-09-14",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 63663,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15T12:01:50.268Z",
+      "day": "2026-09-15",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 55526,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16T12:01:59.256Z",
+      "day": "2026-09-16",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57164,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17T12:02:02.894Z",
+      "day": "2026-09-17",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53689,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18T12:02:23.184Z",
+      "day": "2026-09-18",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 58307,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19T12:01:45.029Z",
+      "day": "2026-09-19",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 58785,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20T12:29:41.721Z",
+      "day": "2026-09-20",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 58711,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21T12:01:42.829Z",
+      "day": "2026-09-21",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53447,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22T12:02:02.891Z",
+      "day": "2026-09-22",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 58652,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23T12:01:45.156Z",
+      "day": "2026-09-23",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 57569,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24T12:01:56.090Z",
+      "day": "2026-09-24",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 59327,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25T12:02:04.354Z",
+      "day": "2026-09-25",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 56903,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26T12:01:40.896Z",
+      "day": "2026-09-26",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 53465,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27T12:02:01.508Z",
+      "day": "2026-09-27",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 60919,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28T12:02:22.671Z",
+      "day": "2026-09-28",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 60207,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29T12:02:29.259Z",
+      "day": "2026-09-29",
+      "passed": 5,
+      "total": 5,
+      "failed": 0,
+      "durationMs": 60761,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": "Alertas/pendientes detectados: Alerta(1), Vencida(6), pendientes(4), abiertos(1), Por aprobar(1)"
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": true,
+          "skipped": false,
+          "error": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30T12:02:12.799Z",
+      "day": "2026-09-30",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32358,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01T12:01:46.578Z",
+      "day": "2026-10-01",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 35974,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02T12:01:40.947Z",
+      "day": "2026-10-02",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32598,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03T12:01:21.947Z",
+      "day": "2026-10-03",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32543,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04T12:01:27.662Z",
+      "day": "2026-10-04",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32789,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05T12:01:41.163Z",
+      "day": "2026-10-05",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32558,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06T12:01:57.051Z",
+      "day": "2026-10-06",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33125,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07T12:02:32.805Z",
+      "day": "2026-10-07",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 60048,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://app.itoapp.cl/\", waiting until \"domcontentloaded\"\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08T12:02:17.955Z",
+      "day": "2026-10-08",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32627,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09T12:02:23.473Z",
+      "day": "2026-10-09",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33032,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10T12:02:29.762Z",
+      "day": "2026-10-10",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32638,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11T12:02:42.303Z",
+      "day": "2026-10-11",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32660,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12T12:03:15.822Z",
+      "day": "2026-10-12",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32431,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13T12:03:09.565Z",
+      "day": "2026-10-13",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33811,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14T12:03:53.567Z",
+      "day": "2026-10-14",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32921,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15T12:03:36.650Z",
+      "day": "2026-10-15",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32988,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16T12:03:35.053Z",
+      "day": "2026-10-16",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32355,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17T12:01:20.215Z",
+      "day": "2026-10-17",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33300,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18T12:01:25.646Z",
+      "day": "2026-10-18",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32433,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19T12:01:37.541Z",
+      "day": "2026-10-19",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32128,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20T12:01:48.370Z",
+      "day": "2026-10-20",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33549,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21T12:02:03.587Z",
+      "day": "2026-10-21",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33383,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22T12:01:34.014Z",
+      "day": "2026-10-22",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33176,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23T12:01:32.324Z",
+      "day": "2026-10-23",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32557,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24T12:01:40.086Z",
+      "day": "2026-10-24",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32996,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25T12:01:54.949Z",
+      "day": "2026-10-25",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32909,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26T12:15:46.498Z",
+      "day": "2026-10-26",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33003,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27T12:09:31.470Z",
+      "day": "2026-10-27",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 34333,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28T12:02:22.970Z",
+      "day": "2026-10-28",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32438,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29T12:02:33.744Z",
+      "day": "2026-10-29",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33064,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30T12:02:39.724Z",
+      "day": "2026-10-30",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32582,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31T12:01:13.136Z",
+      "day": "2026-10-31",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32704,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01T12:01:26.660Z",
+      "day": "2026-11-01",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32631,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02T12:01:52.809Z",
+      "day": "2026-11-02",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32934,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03T12:01:57.617Z",
+      "day": "2026-11-03",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33496,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04T12:01:58.333Z",
+      "day": "2026-11-04",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33057,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05T12:02:11.539Z",
+      "day": "2026-11-05",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32570,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06T12:02:16.464Z",
+      "day": "2026-11-06",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32896,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07T12:01:45.195Z",
+      "day": "2026-11-07",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33287,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08T12:01:28.745Z",
+      "day": "2026-11-08",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 33305,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09T12:01:39.356Z",
+      "day": "2026-11-09",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32310,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10T12:03:40.111Z",
+      "day": "2026-11-10",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 60068,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://app.itoapp.cl/\", waiting until \"domcontentloaded\"\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11T12:01:58.643Z",
+      "day": "2026-11-11",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32353,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12T12:02:13.037Z",
+      "day": "2026-11-12",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32643,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13T12:02:20.095Z",
+      "day": "2026-11-13",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32396,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14T12:02:40.885Z",
+      "day": "2026-11-14",
+      "passed": 0,
+      "total": 5,
+      "failed": 5,
+      "durationMs": 32097,
+      "flows": [
+        {
+          "name": "Login",
+          "ok": false,
+          "skipped": false,
+          "error": "page.waitForSelector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('role=heading[name=\"Mis Proyectos\"]') to be visible\n",
+          "note": null
+        },
+        {
+          "name": "Validacion de documentos (Documentos RF + Protocolos de calidad) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Dashboard del proyecto (widgets y alertas) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Ciclo RDI y Protocolo de calidad (prueba diaria + alerta de borrado) — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        },
+        {
+          "name": "Alerta de borrado en Certificados de hormigon y Planos y Documentos — Strip Center Rancagua",
+          "ok": false,
+          "skipped": true,
+          "error": "Omitido: el flujo de Login fallo previamente",
+          "note": null
+        }
+      ]
+    }
+  ]
+}
